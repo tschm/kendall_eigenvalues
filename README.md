@@ -1,3 +1,3 @@
 # kendall_eigenvalues
 
-Code that reproduces Figures 1 and 2 of the paper Pierre Bousseyroux, Tomas Espana, Matteo Smerlak
+Code that reproduces the figures of the paper Pierre Bousseyroux, Tomas Espana, Matteo Smerlak (2025) "Another Marčenko-Pastur law for Kendall's tau", https://arxiv.org/abs/2503.18645.
