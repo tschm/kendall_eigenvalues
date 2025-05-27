@@ -2,7 +2,9 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/tschm/kendall_eigenvalues/badge)](https://www.codefactor.io/repository/github/tschm/kendall_eigenvalues)
 
-Code that reproduces the figures of the paper
+## 📊 Content
+
+Code to Reproduce Figures from the Paper
 Pierre Bousseyroux, Tomas Espana, Matteo Smerlak (2025)
 "Another Marčenko-Pastur law for Kendall's tau"
 
